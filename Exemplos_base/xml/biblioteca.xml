@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblioteca>
+    <livro isbn="232323">
+        <titulo>JAVA</titulo>
+        <autores>
+            <nome>Fulano 1</nome>
+            <nome>Fulano 2</nome>
+        </autores>
+    </livro>
+
+    <livro isbn="8888">
+        <titulo>JS</titulo>
+        <autores>
+            <nome>Fulano 1</nome>
+            <nome>Fulano 2</nome>
+        </autores>
+    </livro>
+</biblioteca>
